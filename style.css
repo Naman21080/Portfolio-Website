@@ -380,7 +380,7 @@ body {
   padding: 1%;
 }
 .text1{
-  background-color: rgba(156, 215, 98, 0.501);
+  background-color: #4cc5ed31;
   padding: 1%;
   color: #563d7c;
 }
@@ -432,40 +432,11 @@ body {
   margin-bottom: 6%;
 }
 
-.last{
-  display:flex;
-}
-.contact{
-  background-color:#fa807232;
-  width: 100%;
-  font-size: medium;
-}
-#contact{
-  color:darkblue
-}
 .contact h4{
   color:slategrey
 }
 .about{
-  background-color: rgb(88, 38, 38);
-  font-size: medium;
-}
-.contact,
-.about{
-  min-height: 50%;
-  padding: 32px;
   color: white;
-}
-
-.contact p,
-.about p{
-  margin-bottom: 20px;
-}
-
-.contact h2,
-.about h2{
-  font-size: 64px;
-  font-weight: 300;
 }
 
 footer{
@@ -483,27 +454,4 @@ footer h2{
   background-color: black;
   color: whitesmoke;
   font-size: 20px;
-}
-.resume{
-  font-size: 3rem;
-  display: inline;
-  padding: 0.5rem 1rem;
-  background-color:#fa807232;
-  color:rgba(136, 4, 4, 0.601);
-  border: 2px solid rgb(88, 5, 5);
-  border-radius: 2%;
-  box-shadow: 3px 5px 5px rgba(1, 1, 1, 0.2);
-  transition: 0.2s ease-in-out;
-  cursor: pointer;
-}
-.resume:hover{
-  transform: scale(1.04);
-  box-shadow: 3px 5px 5px rgba(1, 1, 1, 0.3);
-  transition: 0.2s ease-in-out;
-}
-.content1 h4{
-  margin-bottom: 3%;
-}
-.content1 h2{
-  margin-bottom: 2%;
 }
