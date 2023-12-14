@@ -239,7 +239,7 @@ body {
 }
 .section__skills .skills {
   width: 100%;
-  height: 75vh;
+  height: 113vh;
   display: flex;
   align-items: center;
   font-size: medium;
@@ -444,18 +444,18 @@ body {
 }
 
 footer{
-  min-height: 100px;
+  min-height: 12vh;
   background-color: rgba(60, 85, 105, 0.973);
   color: white;
 }
 footer h2{
   font-weight:300 ;
-  font-size: 30px;
+  font-size: 2.5rem;
   text-align: center;
   padding-top: 32.5px;
 }
 .rights{
   background-color: black;
   color: whitesmoke;
-  font-size: 20px;
+  font-size: 2rem;
 }
