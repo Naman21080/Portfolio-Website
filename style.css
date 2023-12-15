@@ -37,6 +37,10 @@ body {
     cursor: pointer;
     text-shadow: 0 0 4.5rem #fff;
   }
+  .skills__item .fa-database:hover {
+    cursor: pointer;
+    text-shadow: 0 0 4.5rem #fff;
+  }
 }
 .light-up {
   text-shadow: 0 0 4.5rem #fff;
